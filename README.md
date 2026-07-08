@@ -26,8 +26,8 @@ Download The folders and run the commands in the included colab file to use the 
 ## 📈 Results
 The model is performing at a confidence rate between 0.5 to 0.8 across the plant species in the dataset. The accuracy can be increased by having a more bigger dataset and also opting for a more capable model than the nano one used here.
 1. Predictions
-	![Corn rust leaves](predict\corn leaf.jpg)
-	![Straw berry leaves](predict\strawberry leaf.jpg.jpg)
+	![Corn rust leaves](predict/corn leaf.jpg)
+	![Straw berry leaves](predict/strawberry leaf.jpg)
 	
 
 ## 👨‍💻 Author
